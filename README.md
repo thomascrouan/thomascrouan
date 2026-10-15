@@ -1,6 +1,6 @@
 # Hey there 👋
 
-I'm Thomas, a full-stack developer currently studying for a Bachelor's degree in Web Application Development in La Rochelle.
+I'm Thomas, a full-stack developer currently pursuing a Master's degree in Full-Stack Lead Development at IIM (Institut de l'Internet et du Multimédia) in Nanterre, France.
 
 I design and build whatever I can imagine.
 
