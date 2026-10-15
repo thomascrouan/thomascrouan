@@ -55,7 +55,7 @@ Here you'll find projects completed during my studies as well as personal experi
 
 ## How to reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomascrouan)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:thomas.crouan@etudiant.univ-lr.fr)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:thomas.crouan@edu.devinci.fr)
 [![Portfolio](https://img.shields.io/badge/Website-000000?style=flat&logo=googlechrome&logoColor=white)](https://www.toved.fr)
 [![ArtStation](https://img.shields.io/badge/ArtStation-13AFF0?style=flat&logo=artstation&logoColor=white)](https://thomas_crouan.artstation.com/)
 
